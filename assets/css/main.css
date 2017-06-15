@@ -855,3 +855,7 @@
 		body.is-ie #wrapper {
 			height: 100%;
 		}
+
+p.SkypeButton_Call_sayidsamsin_1_paraElement {
+	display: none !important;
+}
